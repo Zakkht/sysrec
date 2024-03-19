@@ -1,0 +1,1360 @@
+[{
+  "_id": {
+    "$oid": "65d23c24b9cfa4d43ae67d10"
+  },
+  "username": "zakaria",
+  "place": "Paris",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Museums",
+    "Markets",
+    "Cafe"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65d23c2eb9cfa4d43ae67d11"
+  },
+  "username": "zakaria",
+  "place": "Tokyo",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Sumo",
+    "Anime",
+    "Shopping"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65d23c36b9cfa4d43ae67d12"
+  },
+  "username": "zakaria",
+  "place": "Sydney",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Surfing",
+    "Hiking",
+    "Wildlife"
+  ],
+  "geography": [
+    "Harbor",
+    "Coastal",
+    "National Parks"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d23c46b9cfa4d43ae67d13"
+  },
+  "username": "zakaria",
+  "place": "Barcelona",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Tapas",
+    "Markets",
+    "Beaches"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65d23c5db9cfa4d43ae67d14"
+  },
+  "username": "hamza",
+  "place": "Barcelona",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Parks",
+    "Tapas",
+    "Architecture"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d23c65b9cfa4d43ae67d15"
+  },
+  "username": "hamza",
+  "place": "Paris",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Theatre",
+    "Museums",
+    "Parks"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65d23c6fb9cfa4d43ae67d16"
+  },
+  "username": "hamza",
+  "place": "Tokyo",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Gardens",
+    "Anime",
+    "Shopping"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65d23c8bb9cfa4d43ae67d17"
+  },
+  "username": "stormy",
+  "place": "Tokyo",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Anime",
+    "Sumo",
+    "Shopping"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d23c92b9cfa4d43ae67d18"
+  },
+  "username": "stormy",
+  "place": "Paris",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Theatre",
+    "Parks",
+    "Markets"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d23c99b9cfa4d43ae67d19"
+  },
+  "username": "stormy",
+  "place": "Barcelona",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Tapas",
+    "Markets",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d23ca3b9cfa4d43ae67d1a"
+  },
+  "username": "stormy",
+  "place": "Dubai",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Cuisine",
+    "Desert",
+    "Beaches"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d23cb2b9cfa4d43ae67d1b"
+  },
+  "username": "fouad",
+  "place": "New York City",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Art",
+    "Parks",
+    "Music"
+  ],
+  "geography": [
+    "Coastal",
+    "Islands",
+    "Urban"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65d23cb9b9cfa4d43ae67d1c"
+  },
+  "username": "fouad",
+  "place": "Sydney",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Wildlife",
+    "Hiking",
+    "Surfing"
+  ],
+  "geography": [
+    "Harbor",
+    "Coastal",
+    "National Parks"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d23ce7b9cfa4d43ae67d1d"
+  },
+  "username": "fouad",
+  "place": "Paris",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Cafe",
+    "Markets",
+    "Theatre"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d243a722ea6dd1b4da4498"
+  },
+  "username": "fouad",
+  "place": "Tokyo",
+  "season": "summer",
+  "transport": "airplane",
+  "activities": [
+    "Sumo",
+    "Temples",
+    "Anime"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d2441ce3a348cd42337644"
+  },
+  "username": "fouad",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Tapas",
+    "Markets",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65d2444ae3a348cd42337645"
+  },
+  "username": "zakaria",
+  "place": "Bali",
+  "season": "summer",
+  "transport": "train",
+  "activities": [
+    "Yoga",
+    "Temples",
+    "Ricefields"
+  ],
+  "geography": [
+    "Volcanic",
+    "Beaches",
+    "Rice Terraces"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d24455e3a348cd42337646"
+  },
+  "username": "fouad",
+  "place": "Bali",
+  "season": "summer",
+  "transport": "train",
+  "activities": [
+    "Markets",
+    "Yoga",
+    "Temples"
+  ],
+  "geography": [
+    "Volcanic",
+    "Beaches",
+    "Rice Terraces"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65d24461e3a348cd42337647"
+  },
+  "username": "stormy",
+  "place": "Bali",
+  "season": "summer",
+  "transport": "train",
+  "activities": [
+    "Surfing",
+    "Temples",
+    "Ricefields"
+  ],
+  "geography": [
+    "Volcanic",
+    "Beaches",
+    "Rice Terraces"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d2446be3a348cd42337648"
+  },
+  "username": "stormy",
+  "place": "Dubai",
+  "season": "summer",
+  "transport": "train",
+  "activities": [
+    "Skyscrapers",
+    "Beaches",
+    "Desert"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d24473e3a348cd42337649"
+  },
+  "username": "zakaria",
+  "place": "Dubai",
+  "season": "summer",
+  "transport": "train",
+  "activities": [
+    "Desert",
+    "Skyscrapers",
+    "Shopping"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65d2447be3a348cd4233764a"
+  },
+  "username": "fouad",
+  "place": "Dubai",
+  "season": "summer",
+  "transport": "train",
+  "activities": [
+    "Cuisine",
+    "Shopping",
+    "Beaches"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65d3c4af7978600fdd242e6b"
+  },
+  "username": "zakaria",
+  "place": "Vancouver",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Parks",
+    "Beaches",
+    "Skiing"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65d45f77e55857fb23c70221"
+  },
+  "username": "hamza",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Architecture",
+    "Markets",
+    "Beaches"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65d4c1a1e43413feb11a67fe"
+  },
+  "username": "zak",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Cafe",
+    "Parks",
+    "Theatre"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65d5cdea56bfae17ce05b1c5"
+  },
+  "username": "zak",
+  "place": "Dubai",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Cuisine",
+    "Desert",
+    "Beaches"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d5cdf256bfae17ce05b1c6"
+  },
+  "username": "zak",
+  "place": "Rio de Janeiro",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Beaches",
+    "Markets",
+    "Hiking"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d84a92dc9a848d1ee4f26a"
+  },
+  "username": "zakaria",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Parks",
+    "Markets",
+    "Cafe"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65d84ada46e096cbcb52cd24"
+  },
+  "username": "zakaria",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Cafe",
+    "Parks",
+    "Museums"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d869964f114b3c2248decc"
+  },
+  "username": "fouad",
+  "place": "Sydney",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Surfing",
+    "Wildlife",
+    "Beaches"
+  ],
+  "geography": [
+    "Harbor",
+    "Coastal",
+    "National Parks"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d86a18d6861a1e386243a9"
+  },
+  "username": "stormy",
+  "place": "Sydney",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Beaches",
+    "Sailing",
+    "Wildlife"
+  ],
+  "geography": [
+    "Harbor",
+    "Coastal",
+    "National Parks"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65d86b78477d710135019c52"
+  },
+  "username": "stormy",
+  "place": "Rio de Janeiro",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Markets",
+    "Beaches",
+    "Hiking"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddbd392316f3e205fc912f"
+  },
+  "username": "zakaria",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "bus",
+  "activities": [
+    "Markets",
+    "Museums",
+    "Cafe"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ddbd412316f3e205fc9130"
+  },
+  "username": "zakaria",
+  "place": "Tokyo",
+  "season": "spring",
+  "transport": "bus",
+  "activities": [
+    "Shopping",
+    "Sumo",
+    "Gardens"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddbd4d2316f3e205fc9131"
+  },
+  "username": "zakaria",
+  "place": "New York City",
+  "season": "spring",
+  "transport": "bus",
+  "activities": [
+    "Art",
+    "Parks",
+    "Food"
+  ],
+  "geography": [
+    "Coastal",
+    "Islands",
+    "Urban"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ddbd562316f3e205fc9132"
+  },
+  "username": "zakaria",
+  "place": "Sydney",
+  "season": "spring",
+  "transport": "bus",
+  "activities": [
+    "Wildlife",
+    "Sailing",
+    "Beaches"
+  ],
+  "geography": [
+    "Harbor",
+    "Coastal",
+    "National Parks"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddbd5e2316f3e205fc9133"
+  },
+  "username": "zakaria",
+  "place": "Rio de Janeiro",
+  "season": "spring",
+  "transport": "bus",
+  "activities": [
+    "Hiking",
+    "Streetfood",
+    "Markets"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ddbd6fe667906979a971d0"
+  },
+  "username": "zak",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Theatre",
+    "Markets",
+    "Parks"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddbd75e667906979a971d1"
+  },
+  "username": "zak",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Parks",
+    "Markets",
+    "Tapas"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ddbd7ae667906979a971d2"
+  },
+  "username": "zak",
+  "place": "Dubai",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Desert",
+    "Skyscrapers",
+    "Shopping"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ddbdb5e667906979a971d3"
+  },
+  "username": "zak",
+  "place": "Cape Town",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Wine",
+    "Wildlife",
+    "Markets"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Winelands"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddbdf6987a566c4c28ada0"
+  },
+  "username": "zak",
+  "place": "Bali",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Markets",
+    "Yoga",
+    "Temples"
+  ],
+  "geography": [
+    "Volcanic",
+    "Beaches",
+    "Rice Terraces"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ddbe03987a566c4c28ada1"
+  },
+  "username": "zak",
+  "place": "Tokyo",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Gardens",
+    "Anime",
+    "Sumo"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddbee3ef450751902685cf"
+  },
+  "username": "omar",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Museums",
+    "Markets",
+    "Cafe"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ddbee9ef450751902685d0"
+  },
+  "username": "omar",
+  "place": "Tokyo",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Anime",
+    "Shopping",
+    "Temples"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddbefbef450751902685d1"
+  },
+  "username": "omar",
+  "place": "Rio de Janeiro",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Samba",
+    "Beaches",
+    "Streetfood"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddbf00ef450751902685d2"
+  },
+  "username": "omar",
+  "place": "Cape Town",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Beaches",
+    "Wildlife",
+    "Hiking"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Winelands"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddbf05ef450751902685d3"
+  },
+  "username": "omar",
+  "place": "Bali",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Yoga",
+    "Ricefields",
+    "Markets"
+  ],
+  "geography": [
+    "Volcanic",
+    "Beaches",
+    "Rice Terraces"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ddc028ef450751902685d4"
+  },
+  "username": "saad",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Parks",
+    "Cafe",
+    "Museums"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddc032ef450751902685d5"
+  },
+  "username": "saad",
+  "place": "Vancouver",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Skiing",
+    "Beaches",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ddc03aef450751902685d6"
+  },
+  "username": "saad",
+  "place": "Sydney",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Hiking",
+    "Surfing",
+    "Sailing"
+  ],
+  "geography": [
+    "Harbor",
+    "Coastal",
+    "National Parks"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddc04eef450751902685d7"
+  },
+  "username": "saad",
+  "place": "Rio de Janeiro",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Hiking",
+    "Beaches",
+    "Samba"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddc056ef450751902685d8"
+  },
+  "username": "saad",
+  "place": "Dubai",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Beaches",
+    "Skyscrapers",
+    "Cuisine"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddc05eef450751902685d9"
+  },
+  "username": "saad",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Markets",
+    "Tapas",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddc06bef450751902685da"
+  },
+  "username": "ramos",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Markets",
+    "Museums",
+    "Cafe"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ddc07cef450751902685db"
+  },
+  "username": "ramos",
+  "place": "New York City",
+  "season": "winter",
+  "transport": "car",
+  "activities": [
+    "Theater",
+    "Music",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Islands",
+    "Urban"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddc087ef450751902685dc"
+  },
+  "username": "ramos",
+  "place": "Rio de Janeiro",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Markets",
+    "Beaches",
+    "Streetfood"
+  ],
+  "geography": [
+    "Coastal",
+    "Mountainous",
+    "Rainforest"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddc08def450751902685dd"
+  },
+  "username": "ramos",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Parks",
+    "Markets",
+    "Architecture"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddc092ef450751902685de"
+  },
+  "username": "ramos",
+  "place": "Bali",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Markets",
+    "Temples",
+    "Surfing"
+  ],
+  "geography": [
+    "Volcanic",
+    "Beaches",
+    "Rice Terraces"
+  ],
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ddc09def450751902685df"
+  },
+  "username": "messi",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Parks",
+    "Museums",
+    "Markets"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddc0a3ef450751902685e0"
+  },
+  "username": "messi",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Beaches",
+    "Markets",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ddc0a8ef450751902685e1"
+  },
+  "username": "messi",
+  "place": "New York City",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Music",
+    "Theater",
+    "Parks"
+  ],
+  "geography": [
+    "Coastal",
+    "Islands",
+    "Urban"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddc0afef450751902685e2"
+  },
+  "username": "messi",
+  "place": "Dubai",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Cuisine",
+    "Desert",
+    "Shopping"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "65ddc0b8ef450751902685e3"
+  },
+  "username": "messi",
+  "place": "Cape Town",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Wine",
+    "Beaches",
+    "Hiking"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Winelands"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddc2b5ef450751902685e4"
+  },
+  "username": "hassan",
+  "place": "Paris",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Markets",
+    "Parks",
+    "Cafe"
+  ],
+  "geography": [
+    "Riverine",
+    "Flat",
+    "Gardens"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddc2bcef450751902685e5"
+  },
+  "username": "hassan",
+  "place": "Tokyo",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Shopping",
+    "Temples",
+    "Anime"
+  ],
+  "geography": [
+    "Mountainous",
+    "Coastal",
+    "Urban"
+  ],
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "65ddc2c1ef450751902685e6"
+  },
+  "username": "hassan",
+  "place": "Dubai",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Beaches",
+    "Skyscrapers",
+    "Cuisine"
+  ],
+  "geography": [
+    "Desert",
+    "Coastal",
+    "Skyscrapers"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65ddc2c7ef450751902685e7"
+  },
+  "username": "hassan",
+  "place": "Barcelona",
+  "season": "winter",
+  "transport": "airplane",
+  "activities": [
+    "Markets",
+    "Tapas",
+    "Architecture"
+  ],
+  "geography": [
+    "Coastal",
+    "Urban",
+    "Mountains"
+  ],
+  "rating": 5
+}]

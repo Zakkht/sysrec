@@ -1,0 +1,1174 @@
+[{
+  "_id": {
+    "$oid": "65e9e933bc331c4368085afd"
+  },
+  "username": "zakaria",
+  "age": [
+    20
+  ],
+  "habits": [
+    " Learner",
+    " Active",
+    " Prompt"
+  ],
+  "attitude": [
+    " Flexible",
+    " Innovative",
+    " Disciplined"
+  ],
+  "behavior": [
+    " Empathy",
+    " Responsibility",
+    " Accountability"
+  ],
+  "econimic_situation": [
+    " Self-employed"
+  ],
+  "sex": [
+    " Male"
+  ],
+  "trip_overview": "I'm interested in a trip that offers a mix of adventure and cultural experiences. I enjoy trying new things and stepping out of my comfort zone. I'm open to new activities and opportunities for personal growth."
+},
+{
+  "_id": {
+    "$oid": "65e9e93cbc331c4368085afe"
+  },
+  "username": "stormy",
+  "age": [
+    33
+  ],
+  "habits": [
+    " Organized",
+    " Hobbyist",
+    " Hydrated"
+  ],
+  "attitude": [
+    " Assertive",
+    "Adventurous",
+    " Innovative"
+  ],
+  "behavior": [
+    " Generosity",
+    " Humility",
+    " Open-mindedness"
+  ],
+  "econimic_situation": [
+    " Investor"
+  ],
+  "sex": [
+    "Male"
+  ],
+  "trip_overview": "I'm looking for a trip that offers a mix of adventure and relaxation. I enjoy exploring nature and trying outdoor activities like hiking and kayaking. I also appreciate cultural experiences, such as visiting local markets and historical sites."
+},
+{
+  "_id": {
+    "$oid": "65e9e953bc331c4368085aff"
+  },
+  "username": "zak",
+  "age": [
+    18
+  ],
+  "habits": [
+    " Break-taker",
+    " Nature-lover",
+    " Kind"
+  ],
+  "attitude": [
+    " Patient",
+    " Intuitive",
+    " Analytical"
+  ],
+  "behavior": [
+    " Flexibility",
+    " Integrity",
+    " Respect"
+  ],
+  "econimic_situation": [
+    " Freelancer"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e957bc331c4368085b00"
+  },
+  "username": "omar",
+  "age": [
+    29
+  ],
+  "habits": [
+    " Hobbyist",
+    " Break-taker",
+    " Nature-lover"
+  ],
+  "attitude": [
+    " Humble",
+    " Analytical",
+    " Assertive"
+  ],
+  "behavior": [
+    " Communication",
+    " Patience",
+    " Integrity"
+  ],
+  "econimic_situation": [
+    " Student"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e95cbc331c4368085b01"
+  },
+  "username": "hassan",
+  "age": [
+    30
+  ],
+  "habits": [
+    " Nature-lover",
+    " Active",
+    " Kind"
+  ],
+  "attitude": [
+    " Optimistic",
+    " Logical",
+    "Adventurous"
+  ],
+  "behavior": [
+    " Flexibility",
+    " Accountability",
+    " Generosity"
+  ],
+  "econimic_situation": [
+    " Student"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e962bc331c4368085b02"
+  },
+  "username": "ramos",
+  "age": [
+    22
+  ],
+  "habits": [
+    " Nature-lover",
+    " Breather",
+    " Learner"
+  ],
+  "attitude": [
+    " Analytical",
+    " Focused",
+    " Intuitive"
+  ],
+  "behavior": [
+    " Empathy",
+    " Patience",
+    " Cooperation"
+  ],
+  "econimic_situation": [
+    " Business owner"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e966bc331c4368085b03"
+  },
+  "username": "messi",
+  "age": [
+    20
+  ],
+  "habits": [
+    " Organized",
+    " Grateful",
+    " Postured"
+  ],
+  "attitude": [
+    " Wise",
+    " Humble",
+    " Empathetic"
+  ],
+  "behavior": [
+    " Confidence",
+    " Communication",
+    " Perseverance"
+  ],
+  "econimic_situation": [
+    " Student"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e96abc331c4368085b04"
+  },
+  "username": "fouad",
+  "age": [
+    18
+  ],
+  "habits": [
+    " Mindful-eater",
+    " Learner",
+    " Active"
+  ],
+  "attitude": [
+    "Adventurous",
+    " Intuitive",
+    " Flexible"
+  ],
+  "behavior": [
+    " Open-mindedness",
+    " Generosity",
+    "Assertiveness"
+  ],
+  "econimic_situation": [
+    " Freelancer"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e96ebc331c4368085b05"
+  },
+  "username": "saad",
+  "age": [
+    35
+  ],
+  "habits": [
+    " Connector",
+    " Hydrated",
+    " Screen-limiter"
+  ],
+  "attitude": [
+    " Humble",
+    " Flexible",
+    " Enthusiastic"
+  ],
+  "behavior": [
+    " Self-control",
+    " Resilience",
+    " Communication"
+  ],
+  "econimic_situation": [
+    " Freelancer"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9e997bc331c4368085b06"
+  },
+  "username": "messi",
+  "age": [
+    24
+  ],
+  "habits": [
+    " Break-taker",
+    " Boundaried",
+    " Organized"
+  ],
+  "attitude": [
+    " Authentic",
+    " Innovative",
+    " Compassionate"
+  ],
+  "behavior": [
+    " Flexibility",
+    " Respect",
+    " Adaptability"
+  ],
+  "econimic_situation": [
+    " Underemployed"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea286a5524cebbeec991"
+  },
+  "username": "user1",
+  "age": [
+    20
+  ],
+  "habits": [
+    " Hobbyist",
+    " Mindful-eater",
+    " Active"
+  ],
+  "attitude": [
+    " Analytical",
+    " Enthusiastic",
+    " Focused"
+  ],
+  "behavior": [
+    " Perseverance",
+    " Self-control",
+    " Generosity"
+  ],
+  "econimic_situation": [
+    " Business owner"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea2c6a5524cebbeec992"
+  },
+  "username": "user2",
+  "age": [
+    36
+  ],
+  "habits": [
+    " Learner",
+    " Nature-lover",
+    " Breather"
+  ],
+  "attitude": [
+    " Logical",
+    " Humble",
+    " Disciplined"
+  ],
+  "behavior": [
+    " Patience",
+    " Respect",
+    " Open-mindedness"
+  ],
+  "econimic_situation": [
+    " Underemployed"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea2e6a5524cebbeec993"
+  },
+  "username": "user3",
+  "age": [
+    36
+  ],
+  "habits": [
+    " Self-caring",
+    " Organized",
+    " Kind"
+  ],
+  "attitude": [
+    " Flexible",
+    " Optimistic",
+    " Independent"
+  ],
+  "behavior": [
+    " Generosity",
+    " Empathy",
+    " Self-control"
+  ],
+  "econimic_situation": [
+    " Student"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea2f6a5524cebbeec994"
+  },
+  "username": "user4",
+  "age": [
+    28
+  ],
+  "habits": [
+    " Hobbyist",
+    " Break-taker",
+    " Active"
+  ],
+  "attitude": [
+    " Innovative",
+    " Enthusiastic",
+    " Charismatic"
+  ],
+  "behavior": [
+    " Generosity",
+    " Respect",
+    " Resilience"
+  ],
+  "econimic_situation": [
+    "Employed"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea316a5524cebbeec995"
+  },
+  "username": "user5",
+  "age": [
+    28
+  ],
+  "habits": [
+    " Screen-limiter",
+    " Journaler",
+    " Mindful-eater"
+  ],
+  "attitude": [
+    " Authentic",
+    " Flexible",
+    " Wise"
+  ],
+  "behavior": [
+    " Open-mindedness",
+    " Responsibility",
+    " Humility"
+  ],
+  "econimic_situation": [
+    " Underemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea336a5524cebbeec996"
+  },
+  "username": "user6",
+  "age": [
+    30
+  ],
+  "habits": [
+    " Boundaried",
+    " Decaffeinated",
+    "Early-riser"
+  ],
+  "attitude": [
+    " Patient",
+    " Wise",
+    " Authentic"
+  ],
+  "behavior": [
+    " Empathy",
+    " Flexibility",
+    " Generosity"
+  ],
+  "econimic_situation": [
+    " Business owner"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea346a5524cebbeec997"
+  },
+  "username": "user7",
+  "age": [
+    20
+  ],
+  "habits": [
+    " Screen-limiter",
+    " Prompt",
+    " Journaler"
+  ],
+  "attitude": [
+    " Assertive",
+    " Analytical",
+    " Independent"
+  ],
+  "behavior": [
+    "Assertiveness",
+    " Empathy",
+    " Perseverance"
+  ],
+  "econimic_situation": [
+    " Unemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea376a5524cebbeec998"
+  },
+  "username": "user8",
+  "age": [
+    31
+  ],
+  "habits": [
+    " Active",
+    " Journaler",
+    " Hydrated"
+  ],
+  "attitude": [
+    " Wise",
+    "Adventurous",
+    " Creative"
+  ],
+  "behavior": [
+    " Humility",
+    " Respect",
+    " Perseverance"
+  ],
+  "econimic_situation": [
+    " Retired"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea3e6a5524cebbeec999"
+  },
+  "username": "user11",
+  "age": [
+    18
+  ],
+  "habits": [
+    " Connector",
+    " Nature-lover",
+    " Active"
+  ],
+  "attitude": [
+    " Charismatic",
+    " Focused",
+    " Analytical"
+  ],
+  "behavior": [
+    " Responsibility",
+    " Empathy",
+    " Adaptability"
+  ],
+  "econimic_situation": [
+    "Employed"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea406a5524cebbeec99a"
+  },
+  "username": "user12",
+  "age": [
+    24
+  ],
+  "habits": [
+    "Early-riser",
+    " Hydrated",
+    " Screen-limiter"
+  ],
+  "attitude": [
+    " Wise",
+    " Compassionate",
+    " Empathetic"
+  ],
+  "behavior": [
+    " Adaptability",
+    " Respect",
+    " Responsibility"
+  ],
+  "econimic_situation": [
+    " Underemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea426a5524cebbeec99b"
+  },
+  "username": "user13",
+  "age": [
+    21
+  ],
+  "habits": [
+    " Hydrated",
+    " Mindful-eater",
+    " Break-taker"
+  ],
+  "attitude": [
+    " Independent",
+    " Authentic",
+    " Charismatic"
+  ],
+  "behavior": [
+    " Empathy",
+    "Assertiveness",
+    " Integrity"
+  ],
+  "econimic_situation": [
+    " Investor"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea466a5524cebbeec99c"
+  },
+  "username": "user14",
+  "age": [
+    31
+  ],
+  "habits": [
+    " Screen-limiter",
+    " Hydrated",
+    " Hobbyist"
+  ],
+  "attitude": [
+    " Creative",
+    " Humble",
+    " Analytical"
+  ],
+  "behavior": [
+    " Patience",
+    " Humility",
+    " Leadership"
+  ],
+  "econimic_situation": [
+    " Unemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea486a5524cebbeec99d"
+  },
+  "username": "user15",
+  "age": [
+    35
+  ],
+  "habits": [
+    " Postured",
+    " Decaffeinated",
+    " Organized"
+  ],
+  "attitude": [
+    " Optimistic",
+    " Disciplined",
+    " Intuitive"
+  ],
+  "behavior": [
+    " Adaptability",
+    " Generosity",
+    " Confidence"
+  ],
+  "econimic_situation": [
+    " Retired"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea4b6a5524cebbeec99e"
+  },
+  "username": "user16",
+  "age": [
+    21
+  ],
+  "habits": [
+    " Grateful",
+    " Decaffeinated",
+    " Learner"
+  ],
+  "attitude": [
+    " Charismatic",
+    " Creative",
+    " Intuitive"
+  ],
+  "behavior": [
+    " Adaptability",
+    " Accountability",
+    " Empathy"
+  ],
+  "econimic_situation": [
+    " Retired"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea4f6a5524cebbeec99f"
+  },
+  "username": "user17",
+  "age": [
+    31
+  ],
+  "habits": [
+    " Breather",
+    " Break-taker",
+    " Hobbyist"
+  ],
+  "attitude": [
+    " Innovative",
+    " Intuitive",
+    "Adventurous"
+  ],
+  "behavior": [
+    " Responsibility",
+    " Confidence",
+    " Humility"
+  ],
+  "econimic_situation": [
+    " Freelancer"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea646a5524cebbeec9a0"
+  },
+  "username": "user18",
+  "age": [
+    26
+  ],
+  "habits": [
+    " Nature-lover",
+    " Hobbyist",
+    " Breather"
+  ],
+  "attitude": [
+    " Flexible",
+    " Optimistic",
+    " Logical"
+  ],
+  "behavior": [
+    " Patience",
+    " Flexibility",
+    " Resilience"
+  ],
+  "econimic_situation": [
+    " Unemployed"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea666a5524cebbeec9a1"
+  },
+  "username": "user19",
+  "age": [
+    36
+  ],
+  "habits": [
+    " Learner",
+    " Prompt",
+    " Hobbyist"
+  ],
+  "attitude": [
+    " Focused",
+    " Enthusiastic",
+    " Wise"
+  ],
+  "behavior": [
+    " Patience",
+    " Adaptability",
+    " Responsibility"
+  ],
+  "econimic_situation": [
+    "Employed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea736a5524cebbeec9a2"
+  },
+  "username": "user20",
+  "age": [
+    29
+  ],
+  "habits": [
+    " Journaler",
+    " Active",
+    " Connector"
+  ],
+  "attitude": [
+    " Intuitive",
+    " Patient",
+    " Compassionate"
+  ],
+  "behavior": [
+    " Cooperation",
+    " Humility",
+    " Confidence"
+  ],
+  "econimic_situation": [
+    " Unemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea786a5524cebbeec9a3"
+  },
+  "username": "user21",
+  "age": [
+    18
+  ],
+  "habits": [
+    " Learner",
+    " Grateful",
+    " Nature-lover"
+  ],
+  "attitude": [
+    " Enthusiastic",
+    " Patient",
+    " Disciplined"
+  ],
+  "behavior": [
+    " Accountability",
+    " Leadership",
+    " Communication"
+  ],
+  "econimic_situation": [
+    " Retired"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea796a5524cebbeec9a4"
+  },
+  "username": "user22",
+  "age": [
+    31
+  ],
+  "habits": [
+    " Connector",
+    " Active",
+    " Decaffeinated"
+  ],
+  "attitude": [
+    " Focused",
+    "Adventurous",
+    " Empathetic"
+  ],
+  "behavior": [
+    " Self-control",
+    " Generosity",
+    " Confidence"
+  ],
+  "econimic_situation": [
+    " Unemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea7b6a5524cebbeec9a5"
+  },
+  "username": "user23",
+  "age": [
+    35
+  ],
+  "habits": [
+    " Kind",
+    " Screen-limiter",
+    "Early-riser"
+  ],
+  "attitude": [
+    " Innovative",
+    " Disciplined",
+    " Compassionate"
+  ],
+  "behavior": [
+    " Self-control",
+    " Confidence",
+    " Cooperation"
+  ],
+  "econimic_situation": [
+    " Unemployed"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea7d6a5524cebbeec9a6"
+  },
+  "username": "user24",
+  "age": [
+    26
+  ],
+  "habits": [
+    " Breather",
+    "Early-riser",
+    " Break-taker"
+  ],
+  "attitude": [
+    " Perseverant",
+    " Assertive",
+    " Innovative"
+  ],
+  "behavior": [
+    " Flexibility",
+    " Accountability",
+    " Open-mindedness"
+  ],
+  "econimic_situation": [
+    " Investor"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea7f6a5524cebbeec9a7"
+  },
+  "username": "user25",
+  "age": [
+    30
+  ],
+  "habits": [
+    " Break-taker",
+    " Connector",
+    " Hobbyist"
+  ],
+  "attitude": [
+    " Independent",
+    " Wise",
+    " Logical"
+  ],
+  "behavior": [
+    " Responsibility",
+    " Communication",
+    " Patience"
+  ],
+  "econimic_situation": [
+    " Business owner"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea816a5524cebbeec9a8"
+  },
+  "username": "user26",
+  "age": [
+    22
+  ],
+  "habits": [
+    " Active",
+    " Decaffeinated",
+    " Screen-limiter"
+  ],
+  "attitude": [
+    " Patient",
+    " Logical",
+    " Analytical"
+  ],
+  "behavior": [
+    " Responsibility",
+    " Humility",
+    " Open-mindedness"
+  ],
+  "econimic_situation": [
+    " Freelancer"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea846a5524cebbeec9a9"
+  },
+  "username": "user27",
+  "age": [
+    36
+  ],
+  "habits": [
+    " Journaler",
+    " Connector",
+    " Screen-limiter"
+  ],
+  "attitude": [
+    " Charismatic",
+    " Optimistic",
+    " Assertive"
+  ],
+  "behavior": [
+    " Cooperation",
+    " Communication",
+    " Patience"
+  ],
+  "econimic_situation": [
+    " Self-employed"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea886a5524cebbeec9aa"
+  },
+  "username": "user28",
+  "age": [
+    26
+  ],
+  "habits": [
+    " Prompt",
+    " Screen-limiter",
+    " Organized"
+  ],
+  "attitude": [
+    " Authentic",
+    " Creative",
+    " Flexible"
+  ],
+  "behavior": [
+    " Empathy",
+    " Respect",
+    " Humility"
+  ],
+  "econimic_situation": [
+    " Student"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea8b6a5524cebbeec9ab"
+  },
+  "username": "user29",
+  "age": [
+    20
+  ],
+  "habits": [
+    "Early-riser",
+    " Nature-lover",
+    " Boundaried"
+  ],
+  "attitude": [
+    " Analytical",
+    " Empathetic",
+    " Compassionate"
+  ],
+  "behavior": [
+    " Responsibility",
+    " Patience",
+    " Perseverance"
+  ],
+  "econimic_situation": [
+    " Retired"
+  ],
+  "sex": [
+    "Male"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e9ea956a5524cebbeec9ac"
+  },
+  "username": "user30",
+  "age": [
+    35
+  ],
+  "habits": [
+    " Break-taker",
+    " Prompt",
+    " Connector"
+  ],
+  "attitude": [
+    " Independent",
+    " Innovative",
+    " Humble"
+  ],
+  "behavior": [
+    " Generosity",
+    " Responsibility",
+    " Respect"
+  ],
+  "econimic_situation": [
+    " Retired"
+  ],
+  "sex": [
+    " Female"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65ef330ddd25a7b2dfa8427d"
+  },
+  "username": "test_user",
+  "age": [
+    22
+  ],
+  "habits": [
+    " Nature-lover",
+    " Grateful",
+    " Kind"
+  ],
+  "attitude": [
+    " Innovative",
+    " Intuitive",
+    " Authentic"
+  ],
+  "behavior": [
+    " Adaptability",
+    " Responsibility",
+    " Integrity"
+  ],
+  "econimic_situation": [
+    " Freelancer"
+  ],
+  "sex": [
+    "Male"
+  ],
+  "trip_overview": "I'm looking for a trip that offers a mix of adventure and relaxation. I enjoy exploring nature and trying outdoor activities like hiking and kayaking. I also appreciate cultural experiences, such as visiting local markets and historical sites.",
+  "self_overview": "Seeking a travel partner who values flexibility and spontaneity in travel plans. I enjoy the freedom to change course and explore unexpected opportunities. If you're up for last-minute adventures and unplanned detours, we'll make a great team!"
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65e9f46d52af8422116b62b9"
+  },
+  "overview": "I'm seeking a travel buddy who shares my love for adventure and isn't afraid to try new things. A positive attitude, flexibility with plans, and a good sense of humor are must-haves. Someone who appreciates cultural experiences and values respectful communication would make the perfect companion for our journey.",
+  "place": "Paris"
+},
+{
+  "_id": {
+    "$oid": "65e9f49d52af8422116b62ba"
+  },
+  "overview": "Looking for a fellow explorer who enjoys off-the-beaten-path destinations and spontaneous adventures. It's important to me that my travel partner is easygoing, open-minded, and enjoys immersing themselves in local cultures. Bonus points if you're a food enthusiast!",
+  "place": "New York"
+},
+{
+  "_id": {
+    "$oid": "65e9f4a852af8422116b62bb"
+  },
+  "overview": "Seeking a travel companion who values both adventure and relaxation. I enjoy a mix of activities, from hiking and exploring to unwinding on a beach. Compatibility in travel styles, like preferring budget-friendly options or luxury accommodations, would be a great matc",
+  "place": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65e9f4b452af8422116b62bc"
+  },
+  "overview": "I'm in search of a travel buddy who shares my passion for sustainable travel practices. It's important to me that we minimize our environmental impact and support local communities. If you're into eco-friendly accommodations and off-the-beaten-path experiences, let's explore together!",
+  "place": "London"
+},
+{
+  "_id": {
+    "$oid": "65e9f4c052af8422116b62bd"
+  },
+  "overview": "Looking for a travel partner who appreciates the beauty of nature and enjoys outdoor activities like hiking, camping, or wildlife spotting. Compatibility in fitness levels and a willingness to disconnect from technology to connect with nature are key.",
+  "place": "Rome"
+},
+{
+  "_id": {
+    "$oid": "65e9f4ce52af8422116b62be"
+  },
+  "overview": "Seeking a travel partner who is as curious about the world as I am. I enjoy learning about different cultures, histories, and traditions, so a fellow history buff or cultural enthusiast would be a great fit. Let's dive deep into the destinations we visit!",
+  "place": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "65e9f4dd52af8422116b62bf"
+  },
+  "overview": "I'm searching for a travel companion who values meaningful experiences over material possessions. If you prioritize interactions with locals, authentic cultural experiences, and off-the-beaten-path adventures, we'll make great travel buddies!",
+  "place": "Sydney"
+},
+{
+  "_id": {
+    "$oid": "65e9f4e752af8422116b62c0"
+  },
+  "overview": "Looking for a travel buddy who enjoys exploring urban landscapes and immersing themselves in city life. I love discovering hidden gems, trying local cuisine, and experiencing the vibrant energy of cities. If you're a city explorer at heart, let's plan our next adventure together!",
+  "place": "Dubai"
+},
+{
+  "_id": {
+    "$oid": "65e9f50a52af8422116b62c1"
+  },
+  "overview": "I'm in search of a travel companion who appreciates the beauty of slow travel. Someone who enjoys taking the time to fully experience a destination, whether it's lingering in a charming cafe or exploring a local market. Let's savor every moment of our journey together!",
+  "place": "Cape Town"
+},
+{
+  "_id": {
+    "$oid": "65e9f57b263e9da4bf2fbee0"
+  },
+  "overview": "Seeking a travel partner who values flexibility and spontaneity in travel plans. I enjoy the freedom to change course and explore unexpected opportunities. If you're up for last-minute adventures and unplanned detours, we'll make a great team!",
+  "place": "Rio de Janeiro"
+}]
